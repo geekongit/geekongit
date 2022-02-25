@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @geekongit.
+- 👀 I’m interested in Linux.
+- 🌱 I’m currently learning Linux Shell Scripting.
+- 💞️ I’m looking to collaborate on Linux Command Line.
+- 📫 Reach me via email.
